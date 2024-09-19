@@ -244,7 +244,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -258,7 +258,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -275,7 +275,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -289,7 +289,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -303,7 +303,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -317,7 +317,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -334,7 +334,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -348,7 +348,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -362,7 +362,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -376,7 +376,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -393,7 +393,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -407,7 +407,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -421,7 +421,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -435,7 +435,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -452,7 +452,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -466,7 +466,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -480,7 +480,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -494,7 +494,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -511,7 +511,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -525,7 +525,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -539,7 +539,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -570,7 +570,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -584,7 +584,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="1234564",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -598,7 +598,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -612,7 +612,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -629,7 +629,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -643,7 +643,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="1234564",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -657,7 +657,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -671,7 +671,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -688,7 +688,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -702,7 +702,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -716,7 +716,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="1234564",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -730,7 +730,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -747,7 +747,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -761,7 +761,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -775,7 +775,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="1234564",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
@@ -789,7 +789,7 @@ elif page == "Bus Info":
             conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="SQLraven#2024",
+                password="123456",
                 database='myprojdatabase'
                 )
             cursor = conn.cursor()
